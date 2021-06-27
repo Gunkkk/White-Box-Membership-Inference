@@ -7,4 +7,4 @@ NOTES: Got useless results without the model predicts, which is used for blackbo
  
 
 
- [1] Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference Stolen Memories: Leveraging Model Memorization for Calibrated White-B
+ [1] Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference, 2020, Security.
